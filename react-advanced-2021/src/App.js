@@ -1,16 +1,12 @@
-import React from 'react'
-import UseStateBasics from './tutorial/1-useState/setup/2-useState-basics';
+import React from "react";
+import UseStateArray from "./tutorial/1-useState/setup/3-useState-array";
 
 function App() {
   return (
-    <div>
-     <h2>Advanced  React Tutorial</h2>
-      <UseStateBasics />
-
+    <div className="container">
+      <UseStateArray />
     </div>
-    
   );
-  
 }
 
 export default App;
