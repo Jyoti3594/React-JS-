@@ -3,7 +3,34 @@ import React, { useState, useEffect } from 'react';
 // cleanup function
 // second parameter
 const UseEffectBasics = () => {
-  return <h2>useEffect Basics</h2>;
+
+  let bornAge = 0;
+
+  const [old, setold] = useState(bornAge);
+
+  const ChangeAge = ()=>{
+    setold(old +10);
+    
+  }
+  useEffect(() => {
+    console.log('hi there');
+
+    if(old>=1){
+      document.title = `New age: ${old}`;
+    }
+    
+  }, [old]);
+
+  
+  return (
+    <div>
+      <p>Age :</p>
+      <h2>{old}</h2>
+      <button className="btn" onClick={ChangeAge}>Click</button>
+
+      
+    </div>
+  );
 };
 
 export default UseEffectBasics;
