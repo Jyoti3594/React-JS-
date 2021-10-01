@@ -21,7 +21,7 @@ const UseEffectCleanup = () => {
 
   return (
     <div>
-      <p>My current screen size is:</p>
+      <p>My window  screen size is :</p>
       <h2>{value}</h2>
     </div>
   );
