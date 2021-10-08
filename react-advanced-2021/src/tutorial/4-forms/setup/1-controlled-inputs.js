@@ -15,7 +15,7 @@ const ControlledInputs = () => {
     e.preventDefault();
     if (firstName && email) {
       const person = {
-        id: new Date().getTime.toString,
+        id: new Date().getTime().toString(),
         firstName: firstName,
         email: email,
       };
