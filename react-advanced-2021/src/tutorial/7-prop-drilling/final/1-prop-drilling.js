@@ -26,8 +26,7 @@ const List = ({ people, removePerson }) => {
           <SinglePerson
             key={person.id}
             {...person}
-            removePerson={removePerson}
-          />
+            removePerson={removePerson}/>
         );
       })}
     </>
