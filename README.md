@@ -11,3 +11,5 @@ React basic practice Projects:
  
 4) https://reviews-portal.netlify.app/
 
+5) https://accordion-qna-portal.netlify.app/
+
