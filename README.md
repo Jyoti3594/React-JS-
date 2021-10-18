@@ -13,3 +13,5 @@ React basic practice Projects:
 
 5) https://accordion-qna-portal.netlify.app/
 
+6) https://foodmenu-project.netlify.app/
+
