@@ -17,3 +17,5 @@ React basic practice Projects:
 
 7)https://tab-project.netlify.app/
 
+8)https://slider-tab-project.netlify.app/
+
