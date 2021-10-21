@@ -21,3 +21,5 @@ React basic practice Projects:
 
 9)https://lorem-ipsum-text-generator-project.netlify.app/
 
+10)https://color-generator-project.netlify.app/
+
