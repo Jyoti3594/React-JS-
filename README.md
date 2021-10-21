@@ -19,3 +19,7 @@ React basic practice Projects:
 
 8)https://slider-tab-project.netlify.app/
 
+9)https://lorem-ipsum-text-generator-project.netlify.app/
+
+10)https://color-generator-project.netlify.app/
+
